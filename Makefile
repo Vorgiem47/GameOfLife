@@ -14,7 +14,7 @@ SRC	=	main.c	\
 
 OBJ	=	$(SRC:.c=.o)
 
-NAME	=	duo
+NAME	=	gameoflife
 
 LIBSHELL =	-L./include/
 
